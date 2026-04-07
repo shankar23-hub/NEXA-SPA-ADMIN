@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # NEXA Admin Portal v2.1
 
 ## Setup
@@ -34,3 +35,6 @@ Register at /create-account to create a real admin account.
 =======
 # SPA-NEXA
 >>>>>>> 1c79fc2381917a4d518a5f4cb24fee97bd5a0956
+=======
+# NEXA-SPA-ADMIN
+>>>>>>> d94690c8206867b4978e331265f982503e4b8625
